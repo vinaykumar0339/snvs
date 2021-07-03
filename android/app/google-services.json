@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664778209171",
+    "project_id": "snvs-c6922",
+    "storage_bucket": "snvs-c6922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664778209171:android:4f61756bc5bdedac6eda66",
+        "android_client_info": {
+          "package_name": "com.snvsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664778209171-mounbjuv307iin7jv88kitae7ok6o1uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChlzC1ayRI0BxUSeHH8U8wMMNDikH667w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664778209171-mounbjuv307iin7jv88kitae7ok6o1uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
